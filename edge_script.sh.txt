@@ -9,7 +9,7 @@ for file in /home/pi/BTP/test_images/*
 do
   result=${file#"$prefix"}
   echo "$result"
-  sudo docker run -it --rm -v $(pwd):/data:ro openalpr -c eu $result
+  sudo perf stat docker run -it --rm -v $(pwd):/data:ro openalpr -c eu $result
 done
 
 #check for internet connectivity.
