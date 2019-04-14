@@ -3,7 +3,7 @@
 while true
 do
 #running application on local machine.
-echo "\nRunning application on local machine...\n\nResult:"
+echo "\nRunning application on raspberry pi...\n\nResult:"
 prefix='/home/pi/BTP/'
 for file in /home/pi/BTP/test_images/*
 do
