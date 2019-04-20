@@ -1,0 +1,78 @@
+2 images
+       42.700941      task-clock (msec)         #    0.010 CPUs utilized          
+                21      context-switches          #    0.492 K/sec                  
+                 1      cpu-migrations            #    0.023 K/sec                  
+               330      page-faults               #    0.008 M/sec                  
+       2,86,97,537      cycles                    #    0.672 GHz                    
+       6,67,16,277      instructions              #    2.32  insn per cycle         
+         81,44,213      branches                  #  190.727 M/sec                  
+          1,23,664      branch-misses             #    1.52% of all branches        
+
+       4.232439706 seconds time elapsed
+
+       0.035110000 seconds user
+       0.008777000 seconds sys
+
+
+
+4 images
+          53.908798      task-clock (msec)         #    0.008 CPUs utilized          
+                23      context-switches          #    0.427 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               330      page-faults               #    0.006 M/sec                  
+       2,79,76,976      cycles                    #    0.519 GHz                    
+       6,67,70,773      instructions              #    2.39  insn per cycle         
+         81,58,243      branches                  #  151.334 M/sec                  
+          1,33,807      branch-misses             #    1.64% of all branches        
+
+       6.572310677 seconds time elapsed
+
+       0.048548000 seconds user
+       0.007469000 seconds sys
+
+8 images
+  43.025764      task-clock (msec)         #    0.004 CPUs utilized          
+                32      context-switches          #    0.744 K/sec                  
+                 2      cpu-migrations            #    0.046 K/sec                  
+               329      page-faults               #    0.008 M/sec                  
+       2,96,52,563      cycles                    #    0.689 GHz                    
+       6,73,02,000      instructions              #    2.27  insn per cycle         
+         82,50,780      branches                  #  191.764 M/sec                  
+          1,40,755      branch-misses             #    1.71% of all branches        
+
+      10.491443785 seconds time elapsed
+
+       0.044544000 seconds user
+       0.000000000 seconds sys
+
+16 images
+ 42.822195      task-clock (msec)         #    0.002 CPUs utilized          
+                55      context-switches          #    0.001 M/sec                  
+                 3      cpu-migrations            #    0.070 K/sec                  
+               330      page-faults               #    0.008 M/sec                  
+       3,21,23,096      cycles                    #    0.750 GHz                    
+       6,83,44,264      instructions              #    2.13  insn per cycle         
+         84,42,652      branches                  #  197.156 M/sec                  
+          1,57,629      branch-misses             #    1.87% of all branches        
+
+      19.026279605 seconds time elapsed
+
+       0.024724000 seconds user
+       0.021192000 seconds sys
+
+32 images
+         52.319642      task-clock (msec)         #    0.001 CPUs utilized          
+                95      context-switches          #    0.002 M/sec                  
+                 3      cpu-migrations            #    0.057 K/sec                  
+               330      page-faults               #    0.006 M/sec                  
+       3,56,33,717      cycles                    #    0.681 GHz                    
+       7,01,46,515      instructions              #    1.97  insn per cycle         
+         87,71,303      branches                  #  167.648 M/sec                  
+          1,83,222      branch-misses             #    2.09% of all branches        
+
+      36.627453484 seconds time elapsed
+
+       0.030342000 seconds user
+       0.026549000 seconds sys
+
+
